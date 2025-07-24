@@ -1,0 +1,16 @@
+# Go build
+/bin/
+/pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
