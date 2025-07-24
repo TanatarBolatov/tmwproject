@@ -7,4 +7,5 @@ func main() {
 	PrintInfo()
 	PrintIf()
 	PrintSwitch()
+	For()
 }

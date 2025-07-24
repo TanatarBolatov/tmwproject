@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func PrintIf() {
-	age := 33
+	age := 68
 
 	if age < 18 {
 		fmt.Println("Ты несовершеннолетний")
