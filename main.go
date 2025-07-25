@@ -8,4 +8,7 @@ func main() {
 	PrintIf()
 	PrintSwitch()
 	For()
+	Lesson5()
+	LessonRev()
+	PrintAtoi()
 }

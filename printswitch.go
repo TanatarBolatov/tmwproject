@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func PrintSwitch() {
-	role := "admin"
+	role := "user"
 
 	switch role {
 	case "user":
